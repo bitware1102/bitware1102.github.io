@@ -5,7 +5,7 @@ categories: [Proxmox]
 tags: [ảo hóa, virtualization, cloudinit]
 image:
   path: assets/img/proxmox-5.png
-  alt: "Proxmox CLI Cheatsheet Banner"
+  alt: "Proxmox CLI Cheatsheet"
 ---
 
 CloudInit giúp tự động hóa quá trình cấu hình máy ảo trong Proxmox. Dưới đây là một số lệnh `qm cloudinit` hữu ích để quản lý CloudInit trên các VM.
