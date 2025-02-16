@@ -4,7 +4,6 @@ date: 2025-02-16 00:00:00 +0700
 categories: [Proxmox]
 tags: [ảo hóa, virtualization, cloudinit]
 ---
-![Linux Bridge Features Proxmox](https://technonagib.com/wp-content/uploads/2023/12/proxmox-bridge.jpg)
 
 # Proxmox CloudInit Commands
 
