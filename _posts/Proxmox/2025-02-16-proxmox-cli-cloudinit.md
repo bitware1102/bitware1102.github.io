@@ -1,5 +1,5 @@
 ---
-title: Proxmox CloudInit CLICLI
+title: Proxmox CloudInit CLI
 date: 2025-02-16 00:00:00 +0700
 categories: [Proxmox]
 tags: [ảo hóa, virtualization, cloudinit]
