@@ -5,7 +5,6 @@ categories: [Proxmox]
 tags: [ảo hóa, virtualization, qm]     # TAG names should always be lowercase
 image:
   path: assets/img/proxmox-5.png
-  alt: "Proxmox CLI Cheatsheet"
 ---
 
 
