@@ -5,4 +5,4 @@ categories: [Proxmox]
 tags: [ảo hóa, virtualization]     # TAG names should always be lowercase
 ---
 
-Bai Viet dau tien ProxmoxProxmox
+Bai Viet dau tien Proxmox
