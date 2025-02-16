@@ -170,9 +170,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-  Network:
-    output: true
-    permalink: /network/:title/
 
 defaults:
   - scope:
@@ -184,17 +181,8 @@ defaults:
       toc: true # Hiển thị mục lục trong bài viết
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
-      permalink: /posts/:title/
-  - scope:
-      path: _drafts
-    values:
-      comments: false
-  - scope:
-      path: ""
-      type: network  # Áp dụng cho thư mục network
-    values:
-      layout: post
-      permalink: /network/:title/
+      permalink: /:categories/:year/:month/:day/:title/
+
   - scope:
       path: _drafts
     values:
