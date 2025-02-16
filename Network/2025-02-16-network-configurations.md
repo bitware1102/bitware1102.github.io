@@ -1,8 +1,8 @@
 ---
-title: "Network Configurations"
-date: 2025-02-16
-layout: post
-categories: network
-tags: [firewall, networking]
+title: Huong dan
+date: 2025-02-14 00:00:00 +0700
+categories: [Network] 
+tags: [network]     # TAG names should always be lowercase
 ---
-Nội dung bài viết về cấu hình mạng...
+
+# Phan Xuan PhiPhi
