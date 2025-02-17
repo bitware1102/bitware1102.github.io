@@ -1,5 +1,5 @@
 ---
-title: Proxmox CLI "snapshot"
+title: Proxmox CLI "snapshot qm"
 date: 2025-02-17 00:00:00 +0700
 categories: [Proxmox]
 tags: [ảo hóa, virtualization, snapshot]  # TAG names should always be lowercase
