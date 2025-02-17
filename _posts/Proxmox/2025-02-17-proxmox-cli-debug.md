@@ -9,8 +9,19 @@ image:
 
 ```sh
 /etc/pve/.version   # File Versions (to detect file modifications)
+```
+```sh
 /etc/pve/.members   # Info about Cluster Members
+```
+
+```sh
 /etc/pve/.vmlist    # List of all VMs
+```
+
+```sh
 /etc/pve/.clusterlog    # Cluster Log (last 50 entries)
-/etc/pve/.rrd   #RRD Data (most recent entries)
+```
+
+```sh
+/etc/pve/.rrd   # RRD Data (most recent entries)
 ```
