@@ -7,21 +7,28 @@ image:
   path: assets/img/proxmox-5.png
 ---
 ## Snapshot a Container
+
 ```sh
 pct snapshot <vmid> <snapname> [OPTIONS]
 ```
+
 ## List all Snapshots
+
 ```sh
 pct listsnapshot <vmid>
 ```
+
 ## List all Snapshots
+
 Rollback LXC State to Specified Snapshot
+
 ```sh
 pct rollback <vmid> <snapname> [OPTIONS]
 ```
+
 ## List all Snapshots
 Delete a LXC Snapshot
+
 ```sh
 pct delsnapshot <vmid> <snapname> [OPTIONS]
-```
 ```
