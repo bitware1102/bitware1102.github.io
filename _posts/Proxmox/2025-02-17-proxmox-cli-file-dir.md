@@ -81,6 +81,9 @@ image:
 
 ```sh
 /etc/pve/nodes/<NAME>/qemu-server/<VMID>.conf       # VM configuration data for KVM VMs
+```
+
+```sh
 /etc/pve/priv/authkey.key       # Private key used by ticket system
 ```
 
