@@ -7,11 +7,11 @@ image:
   path: assets/img/proxmox-5.png
 ---
 
-## List All Templates
+## List All Templates online proxmox
 ```sh
 pveam available
 ```
-## List All Templates
+## List All Templates local storage
 ```sh
 pveam list <storage>
 ```
