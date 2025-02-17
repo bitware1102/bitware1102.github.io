@@ -2,7 +2,7 @@
 title: Proxmox CLI "Important File/Dir Path"
 date: 2025-02-17 00:00:00 +0700
 categories: [Proxmox]
-tags: [ảo hóa, virtualization, Debug]    
+tags: [ảo hóa, virtualization,]    
 image:
   path: assets/img/proxmox-5.png
 ---
