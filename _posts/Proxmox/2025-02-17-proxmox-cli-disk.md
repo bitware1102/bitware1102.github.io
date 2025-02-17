@@ -1,8 +1,8 @@
 ---
-title: Proxmox CLI "qm"
+title: Proxmox CLI "disk"
 date: 2025-02-16 00:00:00 +0700
 categories: [Proxmox]
-tags: [ảo hóa, virtualization, qm]     # TAG names should always be lowercase
+tags: [ảo hóa, virtualization, disk]     # TAG names should always be lowercase
 image:
   path: assets/img/proxmox-5.png
 ---
