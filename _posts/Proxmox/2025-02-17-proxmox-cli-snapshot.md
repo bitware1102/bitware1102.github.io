@@ -11,7 +11,7 @@ image:
 ```sh
 qm listsnapshot <vmid>
 ```
-## Snapshot a VM\\
+## Snapshot a VM
 
 ```sh
 qm delsnapshot <vmid> <snapname>
