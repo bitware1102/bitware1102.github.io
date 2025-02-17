@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-## 👋 Chào mừng bạn đến với blog của tôi!  
+## 👋 Chào mừng bạn đến với Bitware Tech!  
 Tôi là một quản trị viên hệ thống & an ninh mạng, đam mê về Linux, Docker, và bảo mật.  
 Đây là blog nơi tôi chia sẻ kiến thức và kinh nghiệm làm việc.
 
