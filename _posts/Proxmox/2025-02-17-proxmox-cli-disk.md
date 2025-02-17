@@ -19,19 +19,19 @@ To move a volume to different storage or VM.
 ```sh
 qm disk move <vmid> <disk> [<storage>] [OPTIONS]
 ```
-🔄 Rescan All Storages and Update Disk Sizes and Unused Disk Images
+## 🔄 Rescan All Storages and Update Disk Sizes and Unused Disk Images
 ```sh
 qm disk rescan [OPTIONS]
 ```
-⏩ Extend Volume Size
+## ⏩ Extend Volume Size
 ```sh
 qm disk resize <vmid> <disk> <size> [OPTIONS]
 ```
-❌ Unlink/Delete Disk Images
+## ❌ Unlink/Delete Disk Images
 ```sh
 qm disk unlink <vmid> --idlist <string> [OPTIONS]
 ```
-🔄 Rescan Volumes
+## 🔄 Rescan Volumes
 ```sh
 qm rescan
 ```
