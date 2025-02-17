@@ -1,8 +1,8 @@
 ---
 title: Proxmox CLI "PV, VG & LV Management"
-date: 2025-02-18 0:00:00 +0700
+date: 2025-02-1770:00:00 +0700
 categories: [Proxmox]
-tags: [ảo hóa, virtualization, PV, VG, LV Managemen]     
+tags: [ảo hóa, virtualization, PV, VG, LV Management]    
 image:
   path: assets/img/proxmox-5.png
 ---
