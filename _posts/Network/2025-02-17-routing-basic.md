@@ -3,8 +3,6 @@ title: Routing Basic
 date: 2025-02-17 00:00:00 +0700
 categories: [Network]
 tags: [routing, CCNA,]     # TAG names should always be lowercase
-image:
-  path:
 ---
 ### 1. **Static Routing (Định tuyến tĩnh)**
 
