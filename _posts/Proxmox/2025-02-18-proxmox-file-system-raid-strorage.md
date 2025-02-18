@@ -116,11 +116,48 @@ Trong **Proxmox**, khi bạn cài đặt và chọn hệ thống file **ZFS**, b
 
 ### Tóm tắt nhanh:
 
-| Loại RAID   | Ổ đĩa tối thiểu | Dự phòng ổ đĩa         | Ưu tiên                |
-| ----------- | --------------- | ---------------------- | ---------------------- |
-| **RAID 0**  | 2               | Không                  | Hiệu năng.             |
-| **RAID 1**  | 2               | 1 ổ đĩa                | An toàn dữ liệu.       |
-| **RAID 10** | 4               | Nhiều ổ (tùy cấu hình) | Hiệu năng + Dự phòng.  |
-| **RAIDZ-1** | 3               | 1 ổ đĩa                | Dung lượng + Dự phòng. |
-| **RAIDZ-2** | 4               | 2 ổ đĩa                | Dự phòng tốt hơn.      |
-| **RAIDZ-3** | 5               | 3 ổ đĩa                | An toàn cao nhất.      |
+<table>
+  <tr>
+    <th>Loại RAID</th>
+    <th>Ổ đĩa tối thiểu</th>
+    <th>Dự phòng ổ đĩa</th>
+    <th>Ưu tiên</th>
+  </tr>
+  <tr>
+    <td>RAID 0</td>
+    <td>2</td>
+    <td>Không</td>
+    <td>Hiệu năng.</td>
+  </tr>
+  <tr>
+    <td>RAID 1</td>
+    <td>2</td>
+    <td>1 ổ đĩa</td>
+    <td>An toàn dữ liệu.</td>
+  </tr>
+  <tr>
+    <td>RAID 10</td>
+    <td>4</td>
+    <td>Nhiều ổ (tùy cấu hình)</td>
+    <td>Hiệu năng + Dự phòng.</td>
+  </tr>
+  <tr>
+    <td>RAIDZ-1</td>
+    <td>3</td>
+    <td>1 ổ đĩa</td>
+    <td>Dung lượng + Dự phòng.</td>
+  </tr>
+  <tr>
+    <td>RAIDZ-2</td>
+    <td>4</td>
+    <td>2 ổ đĩa</td>
+    <td>Dự phòng tốt hơn.</td>
+  </tr>
+  <tr>
+    <td>RAIDZ-3</td>
+    <td>5</td>
+    <td>3 ổ đĩa</td>
+    <td>An toàn cao nhất.</td>
+  </tr>
+</table>
+
