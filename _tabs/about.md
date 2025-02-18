@@ -12,4 +12,4 @@ Tôi là một quản trị viên hệ thống & an ninh mạng, đam mê về L
 - 🔹 Ảo hóa (VMware, Proxmox)  
 - 🔹 Bảo mật mạng (Network, Firewall, IDS/IPS)
 - 🔹 DevOps (Docker, Kubernetes)  
-- 🔹 Và các nội dung yêu thích
+- 🔹 Và kinh doanh các sản phẩm Switch, Server, Firewall, Wifi, Access point, Router của các hãng Cisco, Dell, HP, Aruba, Ruskus,
