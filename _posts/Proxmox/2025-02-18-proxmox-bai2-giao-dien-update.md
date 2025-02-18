@@ -1,5 +1,5 @@
 ---
-title: Bài 2 Tổng Quan Giao Diện & Cách Update Proxmox Mới Nhất 2025
+title: Bài 2 | Tổng Quan Giao Diện & Cách Update Proxmox Mới Nhất 2025
 date: 2025-02-18 00:00:00 +0700
 categories: [Proxmox]
 tags: [ảo hóa, virtualization]   
